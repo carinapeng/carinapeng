@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carinapeng
-- 👀 I’m interested in data science and governance
-- 🌱 I’m currently learning CS
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning C, Python, SQL, and improving my R skills
 - 📫 How to reach me fpeng@college.harvard.edu
 
 <!---
